@@ -1,0 +1,6 @@
+{
+  "name": "Dam-Car",
+  "description": "Profesjonalne usługi transportowe – transport maszyn rolniczych i autoholowanie Kozienice. Damian Capała.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
